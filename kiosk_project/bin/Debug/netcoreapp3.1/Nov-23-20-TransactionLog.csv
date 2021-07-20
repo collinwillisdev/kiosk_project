@@ -1,0 +1,5 @@
+transaction num: , transaction date: , transaction time: , cash amount: ,card vendor: , card amount: , change given:
+1,Nov-23-2020,17:30,$50,no`card`vendor,$0,$30
+2,Nov-23-2020,17:30,$50,Visa,$70,$20
+1,Nov-23-2020,17:33,$50,no`card`vendor,$0,$30
+2,Nov-23-2020,17:33,$100,no`card`vendor,$0,$50

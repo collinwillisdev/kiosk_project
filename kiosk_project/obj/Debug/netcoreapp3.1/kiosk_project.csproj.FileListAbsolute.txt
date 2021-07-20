@@ -1,0 +1,13 @@
+C:\Users\colli\source\repos\kiosk_project\kiosk_project\bin\Debug\netcoreapp3.1\kiosk_project.exe
+C:\Users\colli\source\repos\kiosk_project\kiosk_project\bin\Debug\netcoreapp3.1\kiosk_project.deps.json
+C:\Users\colli\source\repos\kiosk_project\kiosk_project\bin\Debug\netcoreapp3.1\kiosk_project.runtimeconfig.json
+C:\Users\colli\source\repos\kiosk_project\kiosk_project\bin\Debug\netcoreapp3.1\kiosk_project.runtimeconfig.dev.json
+C:\Users\colli\source\repos\kiosk_project\kiosk_project\bin\Debug\netcoreapp3.1\kiosk_project.dll
+C:\Users\colli\source\repos\kiosk_project\kiosk_project\bin\Debug\netcoreapp3.1\kiosk_project.pdb
+C:\Users\colli\source\repos\kiosk_project\kiosk_project\obj\Debug\netcoreapp3.1\kiosk_project.csprojAssemblyReference.cache
+C:\Users\colli\source\repos\kiosk_project\kiosk_project\obj\Debug\netcoreapp3.1\kiosk_project.AssemblyInfoInputs.cache
+C:\Users\colli\source\repos\kiosk_project\kiosk_project\obj\Debug\netcoreapp3.1\kiosk_project.AssemblyInfo.cs
+C:\Users\colli\source\repos\kiosk_project\kiosk_project\obj\Debug\netcoreapp3.1\kiosk_project.csproj.CoreCompileInputs.cache
+C:\Users\colli\source\repos\kiosk_project\kiosk_project\obj\Debug\netcoreapp3.1\kiosk_project.dll
+C:\Users\colli\source\repos\kiosk_project\kiosk_project\obj\Debug\netcoreapp3.1\kiosk_project.pdb
+C:\Users\colli\source\repos\kiosk_project\kiosk_project\obj\Debug\netcoreapp3.1\kiosk_project.genruntimeconfig.cache
